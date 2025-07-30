@@ -3,7 +3,7 @@
 I'm a **Backend Engineer & Technical Leader** with **12+ years of experience** in building scalable, reliable, and maintainable web applications. I specialize in **Ruby on Rails** but love working across the stack when needed.
 
 ## 💼 About Me
-- 🔍 Currently leading backend development for **Sell.Do CRM** (K2V2 Technologies), focused on performance optimization, architecture improvements, and mentoring engineers.
+- 🔍 Currently leading backend development for **Coupa**, focused on performance optimization, architecture improvements, and mentoring engineers.
 - 🚀 Strong background in **performance tuning**, **API development**, **database optimization**, and handling **high-traffic applications**.
 - 👥 Passionate about **mentoring engineers**, conducting code reviews, improving team productivity, and fostering a collaborative culture.
 - 🤝 Experienced in working closely with **cross-functional teams** including Sales, Support, Account Managers, and Vendors to align engineering with business goals.
